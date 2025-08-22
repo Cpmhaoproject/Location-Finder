@@ -1,0 +1,26 @@
+{
+  "status": "success",
+  "country": "Malaysia",
+  "regionName": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "zip": "50515",
+  "lat": 3.1408,
+  "lon": 101.6852,
+  "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+  "org": "Adsl Streamyx",
+  "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+  "query": "116.115.174.165"
+}
+{
+  "status": "success",
+  "country": "Malaysia",
+  "regionName": "Kuala Lumpur",
+  "city": "Kuala Lumpur",
+  "zip": "50515",
+  "lat": 3.1408,
+  "lon": 101.6852,
+  "isp": "TM TECHNOLOGY SERVICES SDN BHD",
+  "org": "Adsl Streamyx",
+  "as": "AS4788 TM TECHNOLOGY SERVICES SDN. BHD.",
+  "query": "116.115.174.165"
+}
