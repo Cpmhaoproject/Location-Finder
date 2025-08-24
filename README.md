@@ -37,13 +37,13 @@ pip install termcolor
 pip install pyfiglet
 git clone https://github.com/Cpmhaoproject/Location-Finder.git
 cd Location-Finder
-python Location-Finder.py
+python 查IP端口号_en.py
 ```
 
 
 # 🚀 Usage
 ```
-python Location-Finder.py
+python 查IP端口号_en.py
 ```
 Input a valid IP address.
 
